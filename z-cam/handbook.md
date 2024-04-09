@@ -17,7 +17,7 @@ taxonomy:
 
 # Handbook 
 
-# Z Cam Community Handbook
+## Z Cam Community Handbook
 
 
 This handbook was made using my own experiences with my E2 and E2 F8, as well as the collective knowledge of the members of the Z Cam E2 Facebook group, it’s by no means complete but it is a good starting point if you are new to Z Cam. The quick FAQ below addresses most of the questions I see new members ask when joining the Facebook group, after that is a more detailed guide on each of the cameras, features, and software. Keep in mind I do not own every model of camera, so if you see an innacuracy in your model, please try to correct it for others to see.
