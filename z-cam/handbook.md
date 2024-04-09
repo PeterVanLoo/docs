@@ -23,39 +23,6 @@ taxonomy:
 This handbook was made using my own experiences with my E2 and E2 F8, as well as the collective knowledge of the members of the Z Cam E2 Facebook group, it’s by no means complete but it is a good starting point if you are new to Z Cam. The quick FAQ below addresses most of the questions I see new members ask when joining the Facebook group, after that is a more detailed guide on each of the cameras, features, and software. Keep in mind I do not own every model of camera, so if you see an innacuracy in your model, please try to correct it for others to see.
 
 
-<!-- Comment here -->
-
-
-[//]: # (how to comment in markdown)
-
-
-<details>
-  <summary>Table of Contents</summary>
-
-
-<!-- TOC -->
-
-
-- [Z Cam Community Handbook](#z-cam-community-handbook)
-  - [Z CAM Official Resources](#z-cam-official-resources)
-  - [FAQ](#faq)
-    - [How to Upgrade Firmware On Z CAMs](#how-to-upgrade-firmware-on-z-cams)
-    - [What is Z Cam Native ISO](#what-is-z-cam-native-iso)
-    - [How to Expose for Zlog](#how-to-expose-for-zlog)
-    - [Sample Kits](#sample-kits)
-      - [Z Cam E2 F8 Sample Kit](#z-cam-e2-f8-sample-kit)
-      - [Z Cam E2 F6 Sample Kit](#z-cam-e2-f6-sample-kit)
-      - [Sample Z Cam E2 S6 Kit](#sample-z-cam-e2-s6-kit)
-      - [Sample Z Cam E2 M4 Kit](#sample-z-cam-e2-m4-kit)
-      - [Sample Z Cam E2 Kit](#sample-z-cam-e2-kit)
-      - [Sample Z Cam E2 Multicam Livestreaming Kit](#sample-z-cam-e2-multicam-livestreaming-kit)
-
-
-<!-- /TOC -->
-
-
-</details>
-
 
 
 ## Z CAM Official Resources
@@ -116,11 +83,9 @@ Note it is NOT possible to rollback to a firmware before 0.95 once you have upda
 
 ### How to Expose for Zlog
   - 1st read [Jason's Medium Post](https://medium.com/@jasonzhang_22759/the-design-of-log-curve-20541efda7fe) on the LOG design curve.
-    >  The main take away from Jason's article can be found in [this Facebook Post ](https://redux.vip/wp-content/uploads/2020/08/zlog-info.png)
-
+   
 
   - Next, familiarize yourself with the False Color Spectrum of Z CAMs
-![Z CAM False Color](https://redux.vip/wp-content/uploads/2020/08/image-1601536446515.png)
   > As a general rule you want to make sure your image is free from orange, purple, and blue while in false color mode. The neon green is where you want to aim to get your middle grey exposure, as this leaves 7 stops above to deal with over exposure. All skin tone exposure values in the scene should fall between the neon green and yellow regions.
 
 
