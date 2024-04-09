@@ -13,3 +13,7 @@ taxonomy:
 
 
 # Z Cam Handbook
+
+## FAQ 
+
+## Official Resources
