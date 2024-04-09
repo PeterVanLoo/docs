@@ -6,8 +6,8 @@ post_status: publish
 post_excerpt: Read about all the things your Z CAM can do
 taxonomy:
     category:
-        - resources
-          - z-cam
+        - Resources
+        - Resources/z-cam
 
 ---
 
