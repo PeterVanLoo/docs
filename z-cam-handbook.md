@@ -7,7 +7,7 @@ post_excerpt: Read about all the things your Z CAM can do
 taxonomy:
     category:
         - Resources
-        - Resources/z-cam
+            - z-cam
 
 ---
 
