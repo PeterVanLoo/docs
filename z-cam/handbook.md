@@ -15,9 +15,14 @@ taxonomy:
 
 ---
 
-# Handbook 
 
 [giw_edit_link]
+
+
+
+# Handbook 
+
+
 
 ## Z Cam Community Handbook
 
