@@ -18,7 +18,7 @@ taxonomy:
 
 
 
-[giw_edit_link]<i class="fas fa-pen"></i> &nbsp;
+<i class="fas fa-pen"></i> &nbsp;[giw_edit_link]
 
 
 
