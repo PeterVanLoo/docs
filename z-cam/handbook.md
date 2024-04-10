@@ -9,6 +9,7 @@ taxonomy:
     category:
         - z-cam
         - resources
+        - gear-reviews
     post_tag:
         - Z CAM
 
