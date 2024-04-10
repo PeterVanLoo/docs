@@ -19,7 +19,7 @@ taxonomy:
 
 
 
-<i class="fas fa-pen"></i> &nbsp;[giw_edit_link]
+[giw_edit_link text text="Suggest an edit"]
 
 
 
