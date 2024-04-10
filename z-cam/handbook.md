@@ -17,6 +17,8 @@ taxonomy:
 
 # Handbook 
 
+[print_sc sc="{giw_edit_link}"]
+
 ## Z Cam Community Handbook
 
 
