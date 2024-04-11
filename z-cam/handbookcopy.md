@@ -4,7 +4,7 @@ title: Z Handbook
 menu_order: 1
 post_status: publish
 post_excerpt: This is a post excerpt for the post
-featured_image: _images/post-image.jpg
+featured_image: _images/Z-cam-sunset.png
 taxonomy:
     category:
         - z-cam
